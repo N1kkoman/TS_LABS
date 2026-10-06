@@ -1,0 +1,36 @@
+{
+  "variance": "const",
+  "trend": "none",
+  "nonlinear_trend": "logarithmic",
+  "seasonality": "one",
+  "n_points": 500,
+  "interval_minutes": 5,
+  "start": "2026-10-06 00:00:00",
+  "seed": 123,
+  "outlier_fraction": 0.02,
+  "outlier_count": 10,
+  "outlier_indices": [
+    43,
+    54,
+    125,
+    192,
+    194,
+    251,
+    266,
+    304,
+    396,
+    406
+  ],
+  "missing_fraction": 0.01,
+  "missing_count": 5,
+  "missing_indices": [
+    6,
+    189,
+    232,
+    296,
+    372
+  ],
+  "csv_file": "ts_20261006_215932.csv",
+  "png_file": "ts_extra_demo.png",
+  "created_at": "2026-10-06T21:59:32"
+}
