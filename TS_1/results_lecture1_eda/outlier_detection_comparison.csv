@@ -1,0 +1,4 @@
+Метод,Порог,Число отмеченных точек
+IQR,< -321.50 или > 642.50,505
+z-score,|z-score| > 3,244
+Rolling median / MAD,|robust z| > 3.5; окно {rolling_window} ч,29
